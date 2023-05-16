@@ -1,0 +1,7 @@
+keyboard
+elevenlabs
+numpy
+openai
+pvrecorder
+python-dotenv
+
